@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/anu_portfolio/static/css/main.def78e10.css",
+    "main.js": "/anu_portfolio/static/js/main.c1cb1e66.js",
+    "static/media/avatar4.jpg": "/anu_portfolio/static/media/avatar4.c2ba4e6a8721568f7da1.jpg",
+    "static/media/3.jpg": "/anu_portfolio/static/media/3.de8688ddcd5eec0e5332.jpg",
+    "static/media/me.png": "/anu_portfolio/static/media/me.83c3b33be21ad34e0997.png",
+    "static/media/avatar1.jpg": "/anu_portfolio/static/media/avatar1.7afcc34b6d2006c6941a.jpg",
+    "static/media/avatar2.jpg": "/anu_portfolio/static/media/avatar2.8d1a71c2640182b587d2.jpg",
+    "static/media/avatar3.jpg": "/anu_portfolio/static/media/avatar3.771527a577b742616ab0.jpg",
+    "static/media/CV.pdf": "/anu_portfolio/static/media/CV.89a486e40a8496d12c88.pdf",
+    "static/media/portfolio5.png": "/anu_portfolio/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/anu_portfolio/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/anu_portfolio/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/anu_portfolio/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/anu_portfolio/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/anu_portfolio/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/anu_portfolio/index.html",
+    "main.def78e10.css.map": "/anu_portfolio/static/css/main.def78e10.css.map",
+    "main.c1cb1e66.js.map": "/anu_portfolio/static/js/main.c1cb1e66.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.def78e10.css",
+    "static/js/main.c1cb1e66.js"
+  ]
+}
